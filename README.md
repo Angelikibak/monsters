@@ -8,7 +8,7 @@ This project was bootstraped with create-react-app
 
 ### App demo
 
-https://angelikibak.github.io/monsters/
+https://angelikibak.github.io/monsters-react-app/
 
 ### Available scripts
 
