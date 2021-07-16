@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+### Monster Rolodex
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple static website deployed for learning purposes
 
-## Available Scripts
+Fetching data from an API, Create components, Filtering are some of the learning keywords
 
-In the project directory, you can run:
+This project was bootstraped with create-react-app
+
+### App demo
+
+https://angelikibak.github.io/monsters/
+
+### Available scripts
 
 ### `npm start`
 
@@ -68,5 +74,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-# monsters
